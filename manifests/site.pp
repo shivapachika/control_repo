@@ -3,3 +3,4 @@ node default {
    ensure => file,
    content => 'This is a test file',
    }
+}
